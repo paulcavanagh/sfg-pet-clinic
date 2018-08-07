@@ -1,5 +1,14 @@
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/map/AbstractMapService.java
 /Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Pet.java
-/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Person.java
-/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Owner.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/map/PetServiceMap.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/CrudService.java
 /Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/PetType.java
 /Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Vet.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/VetService.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Person.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/map/OwnerServiceMap.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/BaseEntity.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/OwnerService.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/PetService.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/model/Owner.java
+/Users/paulcavanagh/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/com/parc/sfgpetclinic/services/map/VetServiceMap.java
